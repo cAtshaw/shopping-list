@@ -2,9 +2,9 @@ body {
   margin: 0;
   padding: 0;
   text-align: center;
-  font-family: "Rubik", sans-serif;
-  background-color: #eef0f4;
-  color: #432000;
+  font-family: "Ysabeau", sans-serif;
+  background-color: #e9bcb7;
+  color: #29524a;
   user-select: none;
 }
 
@@ -32,9 +32,9 @@ body {
   border: none;
   height: 40px;
   border-radius: 5px;
-  font-family: "Rubik", sans-serif;
-  color: #432000;
-  background-color: #dce1eb;
+  font-family: "Ysabeau", sans-serif;
+  color: #29524a;
+  background-color: #c5afa0;
 }
 
 #addbtn {
@@ -43,9 +43,9 @@ body {
   border: none;
   height: 40px;
   border-radius: 5px;
-  font-family: "Rubik", sans-serif;
+  font-family: "Ysabeau", sans-serif;
   color: #fdfdfd;
-  background-color: #ac485a;
+  background-color: #29524a;
 }
 
 .list-container {
